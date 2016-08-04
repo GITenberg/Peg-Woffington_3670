@@ -1,0 +1,30 @@
+_repo: Peg-Woffington_3670
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reade, Charles
+    birthdate: 1814
+    deathdate: 1884
+    gutenberg_agent_id: '618'
+    url: http://www.gutenberg.org/2009/agents/618
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Reade
+description: Published in 1853, this was Reade's second novel. Based on the life of
+  the Irish actress Margaret Woffington (1720-1760), it was adapted from his successful
+  1852 stage comedy, Masks and Faces .
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3670'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- 18th century -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Actresses -- Fiction'
+- !lcsh 'Woffington, Margaret, d. 1760 -- Fiction'
+- !lcsh 'Biographical fiction'
+- GITenberg
+title: Peg Woffington
+url: http://www.gutenberg.org/ebooks/3670
