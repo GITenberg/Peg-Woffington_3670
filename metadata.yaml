@@ -1,5 +1,8 @@
 _repo: Peg-Woffington_3670
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Reade, Charles
@@ -11,6 +14,8 @@ creator:
 description: Published in 1853, this was Reade's second novel. Based on the life of
   the Irish actress Margaret Woffington (1720-1760), it was adapted from his successful
   1852 stage comedy, Masks and Faces .
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3670#Peg-Woffington
 gutenberg_issued: '2003-01-01'
 gutenberg_type: Text
 identifiers:
